@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "serverlesscloudproj692be8f46": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dycm7itcgu7js",
+          "type": "manual"
+        }
       }
     }
   }
